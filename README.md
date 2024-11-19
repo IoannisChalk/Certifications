@@ -14,6 +14,9 @@ Applied data analytics techniques using R, including data cleaning, transformati
 **Duration:**  
 Approximately 6 months at 10 hours per week to complete (Coursera estimate).
 
+**More Information:**  
+[View on Coursera](https://www.coursera.org/account/accomplishments/specialization/KQ3R7RKRDS28)
+
 ### Google Advanced Data Analytics Professional Certification
 
 <a href="PDF/Coursera%20CP39L243TUPA-2.pdf">
