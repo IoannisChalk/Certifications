@@ -9,8 +9,7 @@
 </a>
 
 **Description:**  
-Applied data analytics techniques using R, including data cleaning, transformation, and visualization with tidyverse libraries. Worked with real-world datasets for data wrangling and creating summary statistics. Built visualizations with ggplot2 to present insights and practiced exploratory data analysis (EDA) to extract actionable insights. Developed proficiency in SQL for querying and analyzing large datasets using BigQuery and gained experience with Excel for data organization, cleaning, and summarization.
-
+Applied data analytics techniques using R, including data cleaning, transformation, and visualization with tidyverse libraries. Worked with real-world datasets for data wrangling and creating summary statistics. Built visualizations with ggplot2 to present insights and practiced exploratory data analysis (EDA) to extract actionable insights. Developed proficiency in SQL and spreadsheets for querying, analyzing, and organizing large datasets, gaining experience with tools like BigQuery and Excel for data cleaning and summarization.
 **Duration:**  
 Approximately 6 months at 10 hours per week to complete (Coursera estimate).
 
