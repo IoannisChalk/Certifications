@@ -23,6 +23,14 @@ Approximately 6 months at 10 hours per week to complete (Coursera estimate).
   <img src="Images/advanced%20data%20analytics.png" alt="Google Advanced Data Analytics Certification" width="500">
 </a>
 
+**Description:**  
+Applied a wide range of data analysis techniques in the Google Advanced Data Analytics certification, including exploratory data analysis (EDA), where I practiced data cleaning, validation, and joining using Python. I gained expertise in statistical analysis, including hypothesis testing, confidence intervals, and probability theory, utilizing methods like t-tests, Chi-squared tests, and regression analysis to assess data. I built and interpreted linear regression, multiple linear regression, and binomial logistic regression models to analyze data relationships and make predictions. In machine learning, I explored both supervised and unsupervised learning, applying models like decision trees, random forests, and K-means clustering, while managing overfitting and understanding the bias-variance tradeoff. Throughout the certification, I completed real-world projects, applying these techniques to solve complex business problems and derive actionable insights.
+
+**Duration:**  
+Approximately 6 months at 10 hours per week to complete (Coursera estimate).
+
+**More Information:**  
+[View on Coursera](https://www.coursera.org/account/accomplishments/specialization/KQ3R7RKRDS28)
 
 
 ### Machine Learning Specialization
