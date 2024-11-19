@@ -39,6 +39,14 @@ Approximately 6 months at 10 hours per week to complete (Coursera estimate).
   <img src="Images/machine%20learning.png" alt="Machine Learning Specialization" width="500">
 </a>
 
+**Description:**  
+Built and trained machine learning models using Python, including linear and logistic regression for classification tasks, as well as neural networks for multi-class classification. Developed decision trees with ensemble methods like random forests and tackled unsupervised learning techniques for clustering and anomaly detection. Built recommender systems and implemented reinforcement learning models. Gained practical skills to apply machine learning techniques to real-world problems, studying modern concepts such as supervised and unsupervised learning, and best practices for building robust machine learning models.
+
+**Duration:**  
+Approximately 2 months at 10 hours per week to complete (Coursera estimate).
+
+**More Information:**  
+[View on Coursera](https://www.coursera.org/account/accomplishments/specialization/MYG4PMCCXRPK)
 
 ### Deep Learning Specialization
 
