@@ -54,3 +54,11 @@ Approximately 2 months at 10 hours per week to complete (Coursera estimate).
   <img src="Images/deep%20learning.png" alt="Deep Learning Specialization" width="500">
 </a>
 
+**Description:**  
+Built and trained deep learning models using Python and TensorFlow, including Artificial Neural Networks (ANNs) for classification and convolutional neural networks (CNNs) for image classification. Applied techniques such as hyperparameter tuning, regularization, and optimization, and enhanced model performance with strategies like Dropout, BatchNorm, and Xavier/He initialization. Worked with transfer learning, YOLO for object detection, and U-Net for image segmentation. Additionally, worked with advanced CNN architectures including VGG-16, ResNets, MobileNet, and EfficientNet, leveraging transfer learning and data augmentation to improve generalization and robustness. Enhanced expertise in hyperparameter tuning, regularization techniques, and optimization strategies, further refining model performance through techniques such as learning rate scheduling and fine-tuning. Gained foundational understanding of recurrent neural networks (RNNs) and LSTMs for sequence modeling, NLP models with transformers for named-entity recognition and question answering, as well as applications such as YOLO for object detection, speech recognition, music synthesis, and machine translation.
+
+**Duration:**  
+Approximately 3 months at 10 hours per week to complete (Coursera estimate).
+
+**More Information:**  
+[View on Coursera](https://www.coursera.org/account/accomplishments/specialization/OUFT6MWOCDDX)
