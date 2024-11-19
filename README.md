@@ -22,3 +22,11 @@
 <a href="PDF/Coursera%20MYG4PMCCXRPK-2.pdf">
   <img src="Images/machine%20learning.png" alt="Machine Learning Specialization" width="500">
 </a>
+
+
+### Deep Learning Specialization
+
+<a href="PDF/Coursera%20OUFT6MWOCDDX.pdf">
+  <img src="Images/deep%20learning.png" alt="Deep Learning Specialization" width="500">
+</a>
+
