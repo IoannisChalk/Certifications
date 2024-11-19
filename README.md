@@ -14,3 +14,11 @@
 <a href="PDF/Coursera%20CP39L243TUPA-2.pdf">
   <img src="Images/advanced%20data%20analytics.png" alt="Google Advanced Data Analytics Certification" width="500">
 </a>
+
+
+
+### Machine Learning Specialization
+
+<a href="PDF/Coursera%20MYG4PMCCXRPK-2.pdf">
+  <img src="Images/machine%20learning.png" alt="Machine Learning Specialization" width="500">
+</a>
